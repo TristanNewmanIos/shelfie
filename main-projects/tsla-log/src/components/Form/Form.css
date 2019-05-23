@@ -1,0 +1,12 @@
+.form{
+    height: fit-content;
+    width: 90vw;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+  }
+
+.form p{
+  font-size: 12px;
+}

@@ -1,0 +1,11 @@
+.App {
+  margin: 0px;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  color: #b71540;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+

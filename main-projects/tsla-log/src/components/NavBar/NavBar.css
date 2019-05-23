@@ -1,0 +1,10 @@
+nav{
+    width: 100vw;
+    height: 10vh;
+    border: 1px solid black;
+    margin: 0px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+}

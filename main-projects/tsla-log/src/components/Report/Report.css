@@ -1,0 +1,13 @@
+.report{
+    height: 10vh;
+    width: 90vw;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between
+}
+
+.form-btn{
+    height: fit-content;
+    width: fit-content;
+}
